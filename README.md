@@ -1,10 +1,10 @@
-# Express-Vue-TS
 ## Template Fullstack in TypeScript
-Backend :
+### Backend
 - NodeJS
 - Express
 
-Frontend :
+### Frontend
+- VueJS
 
 ## Documentation
 https://fr.vuejs.org/v2/guide/typescript.html
